@@ -1,0 +1,2 @@
+config:
+  info: master beanch,springcloud-config/config-dev.yml,version=1.0.0
